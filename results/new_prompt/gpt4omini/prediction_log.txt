@@ -1,0 +1,17 @@
+
+Accuracy: 0.4700
+F1 Score: 0.4578
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          DE       0.00      0.00      0.00        20
+    NoDefect       0.63      0.58      0.60       100
+          OB       0.17      0.65      0.27        20
+          PF       0.00      0.00      0.00        20
+          RB       0.64      0.45      0.53        20
+          RO       0.82      0.70      0.76        20
+
+    accuracy                           0.47       200
+   macro avg       0.38      0.40      0.36       200
+weighted avg       0.48      0.47      0.46       200
