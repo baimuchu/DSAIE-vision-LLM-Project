@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+tqdm
+torch
+numpy==1.24.4
+Pillow==10.3.0
+Requests==2.31.0
+transformers==4.36.0
+accelerate==0.30.0
