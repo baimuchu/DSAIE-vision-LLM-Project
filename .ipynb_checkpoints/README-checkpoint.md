@@ -7,12 +7,12 @@ We want to build sewer defect detction with Vision Language Model(VLM) Visual Qu
 
 We use different VLM likes:
 
-- Phi-3.5-Vision
-- GPT-4o
-- GPT-4o mini
-- llama -3.2v
+- [x] Phi-3.5-Vision 
+- [x] GPT-4o
+- [x] GPT-4o mini
+- ~~llama -3.2v~~ (As Meta banned the model in EU)
 - moodream2
-- minicpm-moe
+- minicpm-v (MiniCPM-V 2.6)
 - qwen-v2.5
 - llava-o1
 
