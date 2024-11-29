@@ -5,3 +5,7 @@ transformers==4.40.0
 sentencepiece==0.1.99
 decord
 flash_attn
+pandas
+scikit-learn
+tqdm
+json
