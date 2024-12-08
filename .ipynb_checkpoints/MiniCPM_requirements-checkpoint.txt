@@ -1,11 +1,7 @@
 Pillow==10.1.0
-torch==2.1.2
-torchvision==0.16.2
 transformers==4.40.0
 sentencepiece==0.1.99
 decord
-flash_attn
 pandas
 scikit-learn
 tqdm
-json
