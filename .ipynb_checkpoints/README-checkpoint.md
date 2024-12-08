@@ -13,8 +13,16 @@ We use different VLM likes:
 - ~~llama -3.2v~~ (As Meta banned the model in EU)
 - moodream2
 - minicpm-v (MiniCPM-V 2.6)
-- qwen-v2.5
+- Qwen2-VL-7B-Instruct
 - llava-o1
+
+## Performance Eval
+| Model Name | Accuracy | F1 Score |
+| -------- | ------- | ------- |
+| Phi-3.5-vision-instruct  | 0.4350 | 0.3755 |
+| GPT-4o  | 0.5650 | 0.4921 |
+| GPT-4omini  | 0.4700 | 0.4578 |
+
 
 # Visual Question Answering(VQA)
 

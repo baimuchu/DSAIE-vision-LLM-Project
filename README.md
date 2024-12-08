@@ -13,7 +13,7 @@ We use different VLM likes:
 - ~~llama -3.2v~~ (As Meta banned the model in EU)
 - moodream2
 - minicpm-v (MiniCPM-V 2.6)
-- qwen-v2.5
+- Qwen2-VL-7B-Instruct
 - llava-o1
 
 ## Performance Eval

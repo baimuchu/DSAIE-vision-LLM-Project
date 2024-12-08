@@ -1,0 +1,7 @@
+qwen-vl-utils
+pandas
+scikit-learn
+tqdm
+Pillow
+accelerate
+torch
